@@ -17166,6 +17166,7 @@ __metadata:
   dependencies:
     husky: ~9.1.6
     lint-staged: ~13.2.2
+    yarn: ^1.22.22
   languageName: unknown
   linkType: soft
 
